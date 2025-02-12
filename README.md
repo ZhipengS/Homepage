@@ -41,6 +41,9 @@ I am Zhipeng Song (宋智鹏), a joint PhD student between Ghent University and 
 - **2022.12** -----  Arbre de Noël du GDR 2022, Paris, France 
 - **2022.11** -----  Rencontre 2022 de l’ANR ANCG, Cabourg, France
 
+## Notes
+
+[Notes for the book of GV](./Notes for the book of GV.pdf)
 
 ## Contact
 
