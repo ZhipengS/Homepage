@@ -1,11 +1,7 @@
-# Zhipeng Song(宋智鹏)
-
----
-
 ## About Me
 
 Hi, welcome to my homepage. 
-I am Zhipeng Song (宋智鹏), a joint PhD student between Ghent University and Université Marie et Louis Pasteur. My research interests include:
+I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University and Université Marie et Louis Pasteur. My research interests include:
 
 - Harmonic analysis on symmetric spaces
 - PDEs on Lie groups
