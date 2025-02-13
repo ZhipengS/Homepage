@@ -1,4 +1,3 @@
-# personal-website
 # Zhipeng Song(宋智鹏)
 
 
