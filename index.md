@@ -17,8 +17,8 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 
 ## Talks & Presentations
 
-- **2025.01**, Estimate of the kernels for functions of Laplacian on noncompact symmetric spaces, at Séminaire Analyse Fonctionnelle, Université Marie et Louis Pasteur, Besançon, France.
-- **2024.04**, Pointwise and uniform bounds for functions of the Laplacian on symmetric spaces of non-compact type, at Young Functional Analysts’ Workshop, Newcastle University, Newcastle, UK. 
+- **2025.01** --- Estimate of the kernels for functions of Laplacian on noncompact symmetric spaces, at Séminaire Analyse Fonctionnelle, Besançon, France.
+- **2024.04** --- Pointwise and uniform bounds for functions of the Laplacian on symmetric spaces of non-compact type, at Young Functional Analysts’ Workshop, Newcastle, UK. 
 
 ## Conferences & Workshops
 
