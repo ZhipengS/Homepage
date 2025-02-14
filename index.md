@@ -13,7 +13,7 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
   
 ## Publications
 
-1. (With **Y. Kuznetsova**) "Pointwise and uniform bounds for functions of the Laplacian on non-compact symmetric spaces", 2024, preprint, [arxiv](https://doi.org/10.48550/arXiv.2409.02688)
+1. (With **Y. Kuznetsova**) Pointwise and uniform bounds for functions of the Laplacian on non-compact symmetric spaces, 2024, preprint, [arxiv](https://doi.org/10.48550/arXiv.2409.02688)
 
 ## Talks & Presentations
 
