@@ -36,4 +36,6 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 
 **Contact:** zhipeng.song@univ-fcomte.fr, zhipeng.song@ugent.be 
 
-Last update：{{ site.time | date: "%Y/%m" }}
+**Last update**：{{ site.time | date: "%Y/%m" }}
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ZhipengS)
