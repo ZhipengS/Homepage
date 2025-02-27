@@ -21,7 +21,7 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 - **2024.04** --- Pointwise and uniform bounds for functions of the Laplacian on symmetric spaces of non-compact type, at Young Functional Analysts’ Workshop, Newcastle, UK
 - **2023.07** --- Weak amenability for SU(1,n) and Sp(1,n): harmonic analysis on the parabolic part, at Tianyuan Summer Seminar on Functional Analysis and Spaces 2023, Harbin, China 
 
-## Conferences & Workshops
+## Conferences & Workshops attended
 
 - **2023.12** --- Noncommutative analysis on groups and quantum groups ANCG, Besançon, France
 - **2023.08** --- Summer School “Modern Problems in PDEs and Applications”, Ghent, Belgium 
@@ -34,6 +34,9 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 
 [Notes for GV](./GV.pdf)
 
-**Contact:** zhipeng.song@univ-fcomte.fr, zhipeng.song@ugent.be 
+<div style="display: flex; justify-content: space-between;">
+  <span>Contact: zhipeng.song@univ-fcomte.fr, zhipeng.song@ugent.be  </span>
+  <span>Last update：{{ site.time | date: "%m/%Y" }}</span>
+</div>
 
-**Last update**：{{ site.time | date: "%m/%Y" }}
+
