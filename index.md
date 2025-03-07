@@ -7,7 +7,7 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 
 - **2023.08 – present**, PhD(joint), Ghent University - Belgium, Supervisor: [Michael Ruzhansky](https://ruzhansky.org) 
 - **2021.12 – 2023.08**, PhD(joint), Université Marie et Louis Pasteur  - France, Supervisor: [Yulia Kuznetsova](https://ykuznetsova.pages.math.cnrs.fr/index.html)
-- **2020.08 – 2021.12**, Graduate program, Harbin Institute of Technology  - China, Supervisor: Quanhua Xu
+- **2020.08 – 2021.12**, Graduate program, Harbin Institute of Technology  - China, Supervisor: [Quanhua Xu](https://quanhuaxu.pages.math.cnrs.fr)
 - **2016.08 – 2020.06**, Bachelor, Harbin Institute of Technology  - China
 
   
