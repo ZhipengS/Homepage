@@ -5,8 +5,8 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 
 ## Education
 
-- **2025**, PhD, Université Marie et Louis Pasteur and Universiteit Gent, Supervisors: [Yulia Kuznetsova](https://ykuznetsova.pages.math.cnrs.fr/index.html) and [Michael Ruzhansky](https://ruzhansky.org) 
-- **2020**, BS, Harbin Institute of Technology
+- **2025.12**, PhD, Université Marie et Louis Pasteur and Universiteit Gent, Supervisors: [Yulia Kuznetsova](https://ykuznetsova.pages.math.cnrs.fr/index.html) and [Michael Ruzhansky](https://ruzhansky.org) 
+- **2020.06**, BS, Harbin Institute of Technology
 
 <!--
 - **2023.08 – present**, PhD(joint), Ghent University - Belgium, Supervisor: [Michael Ruzhansky](https://ruzhansky.org) 
@@ -18,7 +18,7 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 ## Publications
 
 1. (With **Y. Kuznetsova**) Pointwise and uniform bounds for functions of the Laplacian on non-compact symmetric spaces, 2024, preprint, [arxiv](https://doi.org/10.48550/arXiv.2409.02688)
-2. (With **Y. Kuznetsova**) Kernel estimates for osscilating functions of the Laplacian on non-compact symmetric spaces, 2024, preprint, [arxiv](https://doi.org/10.48550/arXiv.2409.02688)
+2. (With **Y. Kuznetsova**) Kernel estimates for osscilating functions of the Laplacian on non-compact symmetric spaces, 2025, preprint, [arxiv](https://doi.org/10.48550/arXiv.2409.02688)
 
 ## Talks & Presentations
 
@@ -28,6 +28,7 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 
 ## Conferences & Workshops attended
 
+- **2025.06** --- A Marcus Wallenberg symposium on sub-Riemannian geometry, spectral asymptotics and noncommutative geometry, Lund, Sweden
 - **2023.12** --- Noncommutative analysis on groups and quantum groups ANCG, Besançon, France
 - **2023.08** --- Summer School “Modern Problems in PDEs and Applications”, Ghent, Belgium 
 - **2023.07** --- Tianyuan Summer Seminar on Functional Analysis and Spaces 2023, Harbin, China
