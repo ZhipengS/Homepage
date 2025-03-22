@@ -38,7 +38,7 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 
 ## Notes
 
-[Notes for GV](./GV.pdf)
+[Notes for GV](./Symbols index for the book of GV.pdf)
 
 
 ## Contact: 
