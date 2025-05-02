@@ -17,19 +17,18 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
   
 ## Publications
 
-1. (With **Y. Kuznetsova**) Pointwise and uniform bounds for functions of the Laplacian on non-compact symmetric spaces, 2024, preprint, [arxiv](https://doi.org/10.48550/arXiv.2409.02688)
-2. (With **Y. Kuznetsova**) Shifted wave equation on non-compact symmetric spaces, 2025, preprint,
+1. (With **Y. Kuznetsova**) Pointwise and uniform bounds for functions of the Laplacian on non-compact symmetric spaces, 2024, preprint, [arxiv](https://arxiv.org/abs/2409.02688)
+2. (With **Y. Kuznetsova**) Shifted wave equation on non-compact symmetric spaces, 2025, preprint, [arxiv](http://arxiv.org/abs/2504.21479)
 
 
-
-## Talks & Presentations
-
+## Talks & Presentations  
+- **2025.06** --- Shifted wave equation on non-compact symmetric spaces, at Session Poster - Congrès de la SMF, Dijon, France
 - **2025.01** --- Estimate of the kernels for functions of Laplacian on noncompact symmetric spaces, at Séminaire Analyse Fonctionnelle, Besançon, France
 - **2024.04** --- Pointwise and uniform bounds for functions of the Laplacian on symmetric spaces of non-compact type, at Young Functional Analysts’ Workshop, Newcastle, UK
 - **2023.07** --- Weak amenability for SU(1,n) and Sp(1,n): harmonic analysis on the parabolic part, at Tianyuan Summer Seminar on Functional Analysis and Spaces 2023, Harbin, China 
 
-## Conferences & Workshops attended
 
+## Conferences & Workshops attended
 - **2025.06** --- A Marcus Wallenberg symposium on sub-Riemannian geometry, spectral asymptotics and noncommutative geometry, Lund, Sweden
 - **2023.12** --- Noncommutative analysis on groups and quantum groups ANCG, Besançon, France
 - **2023.08** --- Summer School “Modern Problems in PDEs and Applications”, Ghent, Belgium 
@@ -39,7 +38,6 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 - **2022.11** --- Rencontre 2022 de l’ANR ANCG, Cabourg, France
 
 ## Notes
-
 [Notes for GV](./Symbols.pdf)
 
 
