@@ -6,7 +6,7 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 ## Education
 
 - **2025.12**, PhD, **Université Marie et Louis Pasteur** and **Universiteit Gent**, Supervisors: [Yulia Kuznetsova](https://ykuznetsova.pages.math.cnrs.fr/index.html) and [Michael Ruzhansky](https://ruzhansky.org) 
-- **2020.06**, BS, **Harbin Institute of Technology** 
+- **2020.06**, BS, **Harbin Institute of Technology**, Supervisor: [Quanhua Xu](https://quanhuaxu.pages.math.cnrs.fr)
 
 
 
@@ -34,7 +34,6 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 - **2025.06** --- A Marcus Wallenberg symposium on sub-Riemannian geometry, spectral asymptotics and noncommutative geometry, Lund, Sweden
 - **2023.12** --- Noncommutative analysis on groups and quantum groups ANCG, Besançon, France
 - **2023.08** --- Summer School “Modern Problems in PDEs and Applications”, Ghent, Belgium 
-- **2023.07** --- Tianyuan Summer Seminar on Functional Analysis and Spaces 2023, Harbin, China
 - **2023.06** --- École de printemps 2023 du GDR AFHP, Lyon, France 
 - **2022.12** --- Arbre de Noël du GDR 2022, Paris, France 
 - **2022.11** --- Rencontre 2022 de l’ANR ANCG, Cabourg, France
