@@ -5,7 +5,7 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 
 ## Education
 
-- **2025.12**, PhD, **Université Marie et Louis Pasteur** and **Universiteit Gent**, Supervisors: [Yulia Kuznetsova](https://ykuznetsova.pages.math.cnrs.fr/index.html) and [Michael Ruzhansky](https://ruzhansky.org) 
+- **2025.12(expect)**, PhD, **Université Marie et Louis Pasteur** and **Universiteit Gent**, Supervisors: [Yulia Kuznetsova](https://ykuznetsova.pages.math.cnrs.fr/index.html) and [Michael Ruzhansky](https://ruzhansky.org) 
 - **2020.06**, BS, **Harbin Institute of Technology**
 
 
@@ -24,6 +24,7 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 
 
 ## Talks & Presentations  
+- **2025.06** --- Shifted wave equation on non-compact symmetric spaces, at Re­search sem­in­ar "Geo­met­ric and Har­mon­ic Ana­lys­is", Paderborn, Germany
 - **2025.06** --- Shifted wave equation on non-compact symmetric spaces, at Session Poster - Congrès de la SMF, Dijon, France
 - **2025.01** --- Estimate of the kernels for functions of Laplacian on noncompact symmetric spaces, at Séminaire Analyse Fonctionnelle, Besançon, France
 - **2024.04** --- Pointwise and uniform bounds for functions of the Laplacian on symmetric spaces of non-compact type, at Young Functional Analysts’ Workshop, Newcastle, UK
