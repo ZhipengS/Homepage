@@ -33,7 +33,7 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 - **2022.11** --- Rencontre 2022 de l’ANR ANCG, Cabourg, France
 
 ## Notes
-[Notes for GV](./Symbols.pdf)
+[Notes for GV](./Symbols index for the book of GV 2.pdf)
 
 
 ## Contact: 
