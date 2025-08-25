@@ -27,7 +27,6 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 ## Conferences & Workshops attended
 - **2025.06** --- Hypoellipticity in Lund 2025, Lund, Sweden
 - **2023.12** --- Noncommutative analysis on groups and quantum groups ANCG, Besançon, France
-- **2023.08** --- Summer School “Modern Problems in PDEs and Applications”, Ghent, Belgium 
 - **2023.06** --- École de printemps 2023 du GDR AFHP, Lyon, France 
 - **2022.12** --- Arbre de Noël du GDR 2022, Paris, France 
 - **2022.11** --- Rencontre 2022 de l’ANR ANCG, Cabourg, France
