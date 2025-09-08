@@ -39,3 +39,6 @@ I am **Zhipeng Song (宋智鹏)**, a joint PhD student between Ghent University 
 zhipeng.song "AT" univ-fcomte.fr, zhipeng.song "AT" ugent.be
 
 **Last update**：{{ site.time | date: "%m/%Y" }}
+
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://zhipengs.github.io/Homepage&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+
